@@ -12,5 +12,7 @@
 
         𝓹𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽: 𝓴𝓪𝓵𝓼_𝓹𝓪𝔀𝔃𝓷𝓬𝓵𝓪𝔀𝔃
 
+        𝓻𝓸𝓫𝓵𝓸𝔁: 𝓿𝓪𝓰𝓾𝓮𝓵𝔂𝔀𝓾𝓴𝓸𝓷𝓰
+
 <img width="2048" height="400" alt="f01d4f76014213ae839f722ee6d84d60" src="https://github.com/user-attachments/assets/a9ebe114-1396-410e-a14d-03df0d18cb91" />
 
